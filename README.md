@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Taniya Maiti
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in Machine Learning
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me mtaniyaBTECH21@ced.alliance.edu.in
 
